@@ -44,4 +44,3 @@ int prinnhex(va_list arguments, char *buf, unsigned int ibuf)
 	free(hexadecimal);
 	return (count + 2);
 }
->>>>>>> 8f6b2c04260ae0ebbc858ccb7b66e2d5e9dd3c53
